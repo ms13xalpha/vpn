@@ -1,8 +1,8 @@
 {
 "count":"0",
 "Ads":"true",
-"vpnI":"/6499/example/interstitial",
-"vpnB":"/6499/example/banner",
-"vpnN":"/6499/example/native",
-"vpnO":"/6499/example/app-open"
+"vpnI":"ca-app-pub-9793871900207321/9875584197",
+"vpnB":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.Banner0.1665031505",
+"vpnN":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.Native0.1665031610",
+"vpnO":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.AppOpen0.1665031576"
 }
