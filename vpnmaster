@@ -8,7 +8,7 @@
 "vpnN":"/22731072168,22482367762/com.vpnmaster.fast.and.securevpn.Native0.1665753361",
 "vpnO":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.AppOpen1.1665536858",
 "adCount":2,
-"adSpace":true,
+"adSpace":false,
 "adLoad":true,
 "hideIsTimer":true,
 "hideIsTimerCount":30,
