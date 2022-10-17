@@ -1,7 +1,8 @@
 {
-"Ads":"true",
+"Ads":"false",
 "qurekha":false,
 "qurekhaLink":"",
+"backAds":true,
 "vpnI":"/22731072168,22482367762/com.vpnmaster.fast.and.securevpn.Interstitial0.1665753394",
 "vpnB":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.Banner1.1665536769",
 "vpnN":"/22731072168,22482367762/com.vpnmaster.fast.and.securevpn.Native0.1665753361",
