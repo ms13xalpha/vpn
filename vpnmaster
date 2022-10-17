@@ -1,5 +1,5 @@
 {
-"Ads":"false",
+"Ads":"true",
 "qurekha":false,
 "qurekhaLink":"",
 "backAds":true,
@@ -11,7 +11,7 @@
 "adSpace":false,
 "adLoad":true,
 "hideIsTimer":true,
-"hideIsTimerCount":30,
+"hideIsTimerCount":2,
 "isTimerListing":true,
-"isTimerListingCount":30
+"isTimerListingCount":2
 }
