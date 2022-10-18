@@ -11,7 +11,7 @@
 "adSpace":false,
 "adLoad":true,
 "hideIsTimer":true,
-"hideIsTimerCount":40,
+"hideIsTimerCount":30,
 "isTimerListing":true,
-"isTimerListingCount":40
+"isTimerListingCount":30
 }
