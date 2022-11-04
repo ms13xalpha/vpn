@@ -1,7 +1,7 @@
 
 {
 "Ads":"true",
-"ADS_type":"admob",
+"ADS_type":"fb",
 "qurekha":false,
 "qurekhaLink":"",
 "backAds":true,
