@@ -1,14 +1,14 @@
 
 {
 "Ads":"true",
-"ADS_type":"fb",
+"ADS_type":"admob",
 "qurekha":false,
 "qurekhaLink":"",
 "backAds":true,
 "App_KEY":"1767ca305",
-"vpnI":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.Interstitial0.1665035635",
-"vpnB":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.Banner0.1665031505",
-"vpnN":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.Native0.1665031610",
+"vpnI":"/22731072168,22482367762/com.vpnmaster.fast.and.securevpn.Interstitial0.1665753394",
+"vpnB":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.Banner1.1665536769",
+"vpnN":"/22731072168,22482367762/com.vpnmaster.fast.and.securevpn.Native0.1665753361",
 "vpnO":"/22387492205,22482367762/com.vpnmaster.fast.and.securevpn.AppOpen0.1665031576",
 "fbinter":"1391912284595067_1590361354750158",
 "fbbanner":"1391912284595067_1590361188083508",
